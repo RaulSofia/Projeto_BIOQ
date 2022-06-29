@@ -1,0 +1,4 @@
+embedding
+bidirecional lstm x3
+dense x1 ou x2
+softmax? relu?
